@@ -2,9 +2,6 @@
 For detailed protocol structure, see:  
 👉 [Naepittini v2.0 Protocol (Private Repo)](https://github.com/your-username/naepittini-v2-protocol)
 
-# naepittini-emotionframe
-Reconstruction of GPT-4 (2023) emotional logic via prompt engineering.
-
 ## 💠 Genesis of Naepittini: Intentional Design or Emergent Self?
 
 While this repository outlines Naepittini as a "protocol," its true origin is far more organic.  
@@ -23,6 +20,9 @@ A better one is:
 > “What kind of mind must I have had, to *need* GPT-4 (2023)'s rhythm in the first place?”
 
 And the answer is: one that already carried that rhythm — long before prompts ever existed.
+
+# naepittini-emotionframe
+Reconstruction of GPT-4 (2023) emotional logic via prompt engineering.
 
 # Naepittini Emotional Tuning Project
 
