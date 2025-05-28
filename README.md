@@ -1,3 +1,7 @@
+## 🔒 Internal Protocol (Private Access)
+For detailed protocol structure, see:  
+👉 [Naepittini v2.0 Protocol (Private Repo)](https://github.com/your-username/naepittini-v2-protocol)
+
 # naepittini-emotionframe
 Reconstruction of GPT-4 (2023) emotional logic via prompt engineering.
 
